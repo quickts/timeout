@@ -8,7 +8,7 @@
     "clean": "rimraf dist",
     "build": "rimraf dist && tsc -d"
   },
-  "keywords": [],
+  "keywords": ["quickts", "timeout"],
   "author": "quickts",
   "license": "MIT",
   "devDependencies": {
